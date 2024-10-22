@@ -9,9 +9,9 @@
 
 ### 👩‍💻 Recursos úteis 
 
-- **Documentação**: Você pode encontrar nossa documentação completa [aqui]().
-- **Repositorio Mobile**: Um guia passo a passo sobre como executar a parte frontend da aplicação [neste link]().
-- **Repositorio API**: Um guia passo a passo sobre como executar a API da aplicação [nest link]().
+- **Documentação**: Você pode encontrar nossa documentação completa [aqui]("https://github.com/Luizeduard05/reactNative-cars/blob/main/requisitos-agendamento-carros/README.md").
+- **Repositorio Mobile**: Um guia passo a passo sobre como executar a parte frontend da aplicação [neste link]("https://github.com/Luizeduard05/reactNative-cars/blob/main/frontend-agendamento-carros/README.md").
+- **Repositorio API**: Um guia passo a passo sobre como executar a API da aplicação [nest link]("https://github.com/Luizeduard05/reactNative-cars/blob/main/backend-agendamento-carros/README.md").
 
 
 ### 👩‍💻👨‍💻 Conheça o nosso time 
