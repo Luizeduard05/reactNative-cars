@@ -3,18 +3,8 @@ Aplicação desenvolvida com React Native e Spring Boot, tem como objetivo geren
 
 ### :clipboard: Começando
 Nesse repositório você encontrará:
-* [Fluxo do aplicativo](https://github.ibm.com/Luiz-Eduardo1/requisitos-agendamento-carros/tree/develop/fluxo-de-app)
-* [Modelagem do Banco de Dados](https://github.ibm.com/Luiz-Eduardo1/requisitos-agendamento-carros/tree/develop/modelagem-db)
-* [Casos de uso do Backend](https://github.ibm.com/Luiz-Eduardo1/requisitos-agendamento-carros/tree/develop/caso-de-uso-backend)
-* [Casos de uso do Frontend](https://github.ibm.com/Luiz-Eduardo1/requisitos-agendamento-carros/tree/develop/caso-de-uso-frontend)
-
-## 🤝 Colaboradores
-
-| Colaboradores                | Github                               |
-| :----------:                 | :----------:                         |
-| Caroline de Marchi Petherson | https://github.ibm.com/caroline-dmp  |
-| Ellen Ulrick                 | https://github.ibm.com/Ellenulrick   |
-| Kelly Souza                  | https://github.ibm.com/kellysouza    |
-| Luiz Eduardo                 | https://github.ibm.com/Luiz-Eduardo1 |
-| Nicole Zaplana               | https://github.ibm.com/Nicole-Zaplana|
+* [Fluxo do aplicativo](https://github.com/Luizeduard05/reactNative-cars/tree/main/requisitos-agendamento-carros/fluxo-de-app)
+* [Modelagem do Banco de Dados](https://github.com/Luizeduard05/reactNative-cars/tree/main/requisitos-agendamento-carros/modelagem-db)
+* [Casos de uso do Backend](https://github.com/Luizeduard05/reactNative-cars/tree/main/requisitos-agendamento-carros/caso-de-uso-backend)
+* [Casos de uso do Frontend](https://github.com/Luizeduard05/reactNative-cars/tree/main/requisitos-agendamento-carros/caso-de-uso-frontend)
 
